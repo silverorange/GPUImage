@@ -31,8 +31,6 @@ void reportAvailableMemoryForGPUImage(NSString *tag);
  
  Images or frames of video are uploaded from source objects, which are subclasses of GPUImageOutput. These include:
  
- - GPUImageVideoCamera (for live video from an iOS camera) 
- - GPUImageStillCamera (for taking photos with the camera)
  - GPUImagePicture (for still images)
  - GPUImageMovie (for movies)
  
