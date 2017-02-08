@@ -4,8 +4,6 @@
 #import "GPUImageContext.h"
 #import "GPUImageOutput.h"
 #import "GPUImageView.h"
-#import "GPUImageVideoCamera.h"
-#import "GPUImageStillCamera.h"
 #import "GPUImageMovie.h"
 #import "GPUImagePicture.h"
 #import "GPUImageRawDataInput.h"
